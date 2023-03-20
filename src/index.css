@@ -1,0 +1,470 @@
+.text-center {
+    text-align: center;
+}
+
+.same-font {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.ft-cambria {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+
+/* font weight */
+
+.ft-w-200 {
+    font-weight: 200;
+    ;
+}
+
+.ft-w-300 {
+    font-weight: 300;
+    ;
+}
+
+.ft-w-500 {
+    font-weight: 500;
+    ;
+}
+
+.ft-w-l {
+    font-weight: 100;
+}
+
+.ft-f {
+    font-family: monospace;
+}
+
+.blue-color {
+    color: blue;
+}
+
+
+/* margins */
+
+.mt-neg-10 {
+    margin-top: -10px;
+}
+
+.mt-20 {
+    margin-top: 20px;
+}
+
+.mt-5 {
+    margin-top: 5vh;
+}
+
+.mt-10 {
+    margin-top: 10vh;
+}
+
+.mb-5 {
+    margin-bottom: 5vh;
+}
+
+.mt-auto {
+    margin-top: auto;
+}
+
+.ml-10 {
+    margin-left: 10px;
+}
+
+.ml-47 {
+    margin-left: 45vw;
+}
+
+.ml-70 {
+    margin-left: -1070px;
+}
+
+.mr-50 {
+    margin-right: 50px;
+}
+
+.mr-10 {
+    margin-right: 100vw;
+}
+
+.mtb-rl-5 {
+    margin: auto 5vw;
+}
+
+
+/* width height */
+
+.w-200 {
+    width: 200px;
+}
+
+.w-50per {
+    width: 50%;
+}
+
+.w-100per {
+    width: 100%;
+}
+
+.h-30 {
+    height: 30px;
+}
+
+.h-auto {
+    height: auto;
+}
+
+
+/* float */
+
+.fl {
+    float: left;
+}
+
+.fl-rt {
+    float: right;
+}
+
+
+/* padding */
+
+.pd-20 {
+    padding: 20px;
+}
+
+.pd-5 {
+    padding: 5px;
+}
+
+.h2-for-main-heading {
+    text-align: center;
+    font-weight: 500;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 10vh;
+}
+
+.br-5 {
+    border-radius: 5px;
+}
+
+.br-10 {
+    border-radius: 10px;
+}
+
+.br-nav-table {
+    border: none;
+    border-radius: 0px 0px 10px 10px;
+}
+
+.br-bl {
+    border: 2px solid black;
+}
+
+
+/* welcome page  */
+
+.center-align {
+    align-items: center;
+}
+
+.btn-welcome-page {
+    margin: auto;
+    width: 120px;
+    height: 30px;
+    border-radius: 10px;
+    background: none;
+    border: 2px solid black;
+}
+
+
+/* login page */
+
+.table-login-edit {
+    margin: 0vh 35vw;
+}
+
+.btn-login-reg-page {
+    width: 120px;
+    height: 30px;
+    border-radius: 10px;
+    background-color: cyan;
+    margin: 30px 50px;
+    font-weight: 300;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+/* register page */
+
+.table-reg {
+    margin: auto 32vw;
+}
+
+
+/* edit-user page */
+
+.container-edit-user {
+    width: 100%;
+    height: 80vh;
+    border-radius: 5px;
+}
+
+
+/* logout page */
+
+.logout-p {
+    margin-top: 10vh;
+}
+
+
+/* chat-page */
+
+.chat-page-container1 {
+    flex-direction: row;
+    display: flex;
+    width: 100%;
+    height: 30px;
+    margin-top: 20px;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+
+.chat-page-container2 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 100%;
+    min-height: 30vh;
+    height: auto;
+    padding-top: 5vh;
+    padding-bottom: 5vh;
+    border: 1px solid black;
+}
+
+.chat-page-container3 {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    height: 50px;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+
+.chat-form {
+    margin: auto;
+}
+
+.btn-cross {
+    margin-right: 1px;
+    margin-top: 1px;
+    margin-left: 43vw;
+    width: 28px;
+    height: 28px;
+    border-radius: 5px;
+    background-color: white;
+}
+
+small {
+    color: red;
+}
+
+.chat-buttons {
+    padding: 3px;
+    margin: auto 10px;
+    background-color: white;
+    border-radius: 5px;
+    border: 2px solid black;
+}
+
+.chat-text-field {
+    margin: auto 0px;
+    margin-left: -50px;
+    width: 70vw;
+    height: 30px;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+
+
+/* users-list page */
+
+.container-for-table {
+    width: 100%;
+    height: 80vh;
+    border-radius: 5px;
+}
+
+
+/* uploads-list page */
+
+.upload-btn {
+    text-align: left;
+    width: 150px;
+    height: auto;
+    position: absolute;
+    top: 77vh;
+    left: 3px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: cyan;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+
+
+/* share page */
+
+.share-container {
+    width: 100%;
+    height: 10vh;
+    border-radius: 5px;
+    border: 2px solid black;
+    display: flex;
+    flex-direction: row;
+}
+
+.share-label {
+    margin-top: auto;
+    margin-left: 100px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.share-select {
+    width: 200px;
+    height: 30px;
+    border: 2px solid black;
+    border-radius: 5px;
+    text-align: center;
+    margin-top: auto;
+    margin-left: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.share-btn {
+    width: 100px;
+    height: 30px;
+    margin-top: auto;
+    background-color: #b3b3b3;
+    border: 2px solid black;
+    border-radius: 5px;
+    margin-left: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+/* data table */
+
+.th-for-table {
+    background-color: #CCCCCC;
+    border-right: 2px solid black;
+    font-weight: lighter;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.th-c1,
+.th-c2 {
+    width: 40%;
+}
+
+.th-c2 {
+    text-align: center;
+}
+
+.th-c3 {
+    width: 20%;
+}
+
+.td2 {
+    border-right: 2px solid black;
+}
+
+.td2 {
+    text-align: center;
+    font-weight: 400;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.td2-c1 {
+    text-align: left;
+}
+
+.tr2 {
+    height: 25px;
+    border: none;
+    border-radius: 10px;
+}
+
+.tr2:nth-child(even) {
+    background-color: #F0F0F0;
+}
+
+
+/* for all pages after login */
+
+
+/* .table-nav {
+  width:  100%;
+} */
+
+
+/* .nav > .nav-item > .active > button{
+  background-color: "white" !important;
+} */
+
+.nav-bar {
+    display: flex;
+    width: 100%;
+    height: 40px;
+}
+
+.nav-bar-tab {
+    background-color: #bfbfbf;
+    margin: auto;
+    width: 25%;
+    height: 40px;
+    border: 2px solid black;
+    border-collapse: collapse;
+}
+
+.first-table {
+    border: none;
+    border-radius: 0px 0px 10px 10px;
+}
+
+.td-nav {
+    background-color: #bfbfbf;
+    text-align: center;
+    width: 25vw;
+    height: 40px;
+    border: 2px solid black;
+}
+
+.td-a {
+    color: black;
+    text-decoration: none;
+    font-weight: 300;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.for-non-nav-a {
+    color: black;
+    text-align: center;
+    text-decoration: none;
+    font-weight: 400;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.active-tab {
+    background-color: #fff;
+}
+
+.left-round-border {
+    border-radius: 0px 0px 0px 10px;
+}
+
+.right-round-border {
+    border-radius: 0px 0px 10px 0px;
+}
+
+.pointer-cursor {
+    cursor: pointer;
+}

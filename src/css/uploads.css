@@ -1,0 +1,158 @@
+.modal-ok-btn {
+    color: white;
+}
+
+.modal-content {
+    border: 3px solid black;
+    height: 200px;
+    margin-top: 0;
+}
+
+.modal-design {
+    margin-top: 40vh;
+    margin-left: 30vw;
+    width: 300px;
+}
+
+.modal-header {
+    display: flex;
+    flex-direction: row;
+    height: 30px;
+    border-bottom: 2px solid black;
+}
+
+.modal-title {
+    text-align: center;
+    margin-left: auto;
+    font-weight: 400;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 16px;
+}
+
+.btn-close {
+    width: 10px;
+    height: 10px;
+    border-radius: 5px;
+    font-size: 16px;
+    border: 2px solid black;
+}
+
+.modal-btn-design {
+    background-color: white;
+    width: 90px;
+    height: 30px;
+    padding: 0;
+    color: black;
+    margin-top: 0;
+    margin-right: 20px;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+
+.modal-btn-design:hover {
+    background-color: white;
+    color: black;
+}
+
+.modal-footer {
+    display: flex;
+    flex-direction: row;
+    height: auto;
+    border: none;
+}
+
+.modal-body {
+    display: flex;
+    flex-direction: row;
+}
+
+img {
+    margin: auto;
+    width: 40px;
+    height: 40px;
+}
+
+p {
+    margin-top: auto;
+    margin-right: 80px;
+    font-size: 18px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.modal-design-desc {
+    margin-top: 30vh !important;
+    margin-left: 20vw !important;
+    padding: 0;
+    width: 800px !important;
+}
+
+.modal-content-desc {
+    border: 3px solid black !important;
+    width: 600px !important;
+    height: 250px !important;
+    padding: 0;
+    margin-top: 0;
+}
+
+.label-desc {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 10px auto;
+}
+
+.input-desc {
+    width: 400px;
+    height: 40px;
+    border: 2px solid black;
+    border-radius: 5px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 0px auto;
+}
+
+.modal-body-desc {
+    max-height: 80px;
+}
+
+.modal-btn-design-desc {
+    margin-right: 110px!important;
+    background-color: #b3b3b3 !important;
+    border: 2px solid black;
+}
+
+.modal-btn-design-desc-cancel {
+    margin-left: -40px !important;
+}
+
+.modal-btn-design-desc:hover,
+.modal-btn-design-upload:hover {
+    border: 2px solid black;
+}
+
+.modal-body-upload {
+    max-height: 180px;
+    display: flex;
+    flex-direction: column;
+}
+
+.upload-file-desc {
+    width: 300px;
+    height: 40px;
+    border: 2px solid black;
+    border-radius: 5px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 0px auto;
+}
+
+.modal-content-upload {
+    border: 3px solid black;
+    width: 600px;
+    height: 210px;
+    padding: 0;
+    margin-top: 0;
+}
+
+.modal-btn-design-upload {
+    width: 100px !important;
+    margin-top: 10px !important;
+    background-color: #b3b3b3 !important;
+    border: 2px solid black;
+}

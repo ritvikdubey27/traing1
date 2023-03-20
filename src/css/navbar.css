@@ -1,0 +1,21 @@
+.active {
+    background-color: white;
+}
+
+.li-nav-bar-cust {
+    width: 25% !important;
+}
+
+.nav-pills .nav-link.active {
+    background-color: white !important;
+}
+.nav-link {
+    background-color: #bfbfbf !important;
+}
+.btn-nav-bar-cust {
+    width: 100% !important;
+    height: 40px;
+    background-color: #bfbfbf;
+    border: 1px solid black !important;
+    color: black !important;
+}

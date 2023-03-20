@@ -1,0 +1,80 @@
+.modal-ok-btn {
+    color: white;
+}
+
+.modal-content {
+    border: 3px solid black;
+    height: 200px;
+    margin-top: 0;
+}
+
+.modal-design {
+    margin-top: 40vh;
+    margin-left: 30vw;
+    width: 300px;
+}
+
+.modal-header {
+    display: flex;
+    flex-direction: row;
+    height: 30px;
+    border-bottom: 2px solid black;
+}
+
+.modal-title {
+    text-align: center;
+    margin-left: auto;
+    font-weight: 400;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 16px;
+}
+
+.btn-close {
+    width: 10px;
+    height: 10px;
+    border-radius: 5px;
+    font-size: 16px;
+    border: 2px solid black;
+}
+
+.modal-btn-design {
+    background-color: white;
+    width: 90px;
+    height: 30px;
+    padding: 0;
+    color: black;
+    margin-top: 0;
+    margin-right: 20px;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+
+.modal-btn-design:hover {
+    background-color: white;
+    color: black;
+}
+
+.modal-footer {
+    display: flex;
+    flex-direction: row;
+    height: auto;
+    border: none;
+}
+
+.modal-body {
+    display: flex;
+    flex-direction: row;
+}
+
+img {
+    margin: auto;
+    width: 40px;
+    height: 40px;
+}
+
+p {
+    margin-top: auto;
+    margin-right: 80px;
+    font-size: 18px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
